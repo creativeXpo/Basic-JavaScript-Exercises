@@ -1,7 +1,7 @@
 /**
- * 64. Write a JavaScript program to concatenate two strings and return the
- *     result. If the length of the strings are not same then remove the 
- *     characters from the longer string. 
+ * 68. Write a JavaScript program to create a new string taking the first and 
+ *     last n characters from a given string. The string length must be greater 
+ *     or equal to n. 
  * 
  */
 
